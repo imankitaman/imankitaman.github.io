@@ -6,6 +6,7 @@
     "profile_url": "https://apna-co.staging.infra.apna.co/bot0000000",
     "photo_icon_path": "initial_avatars/initialsB_ICON",
     "photo_firebase_path": "initial_avatars/initialsB",
+    "salary":10000,
     "area": {
         "id": 123,
         "name": "HSR Layout",
