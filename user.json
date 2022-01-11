@@ -63,15 +63,15 @@
         {
             "education_level": {
                 "id": 1,
-                "level": "10th",
+                "level": "Graduate",
                 "ordered_id": 123
             },
-            "degree": null,
+            "degree": "B.Com Hons",
             "education_institute": {
-                "title": "KSRTC"
+                "title": "SRCC"
             },
             "start": "2019-12-01T21:25:35.957Z",
-            "end": "2020-12-01T21:25:35.957Z",
+            "end": "2021-12-01T21:25:35.957Z",
             "ongoing": false
         },
         {
