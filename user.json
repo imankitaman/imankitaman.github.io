@@ -1,129 +1,116 @@
 {
-    "user_id": 123456778,
-    "profile_website": "www.google.com",
-    "full_name": "Bot",
-    "gender": "m",
-    "profile_url": "https://apna-co.staging.infra.apna.co/bot0000000",
-    "photo_icon_path": "initial_avatars/initialsB_ICON",
-    "photo_firebase_path": "initial_avatars/initialsB",
-    "current_salary":10000,
-    "area": {
-        "id": 123,
-        "name": "HSR Layout",
-        "lat": 123.45,
-        "long": 123.45
+  "user_id": 123456789,
+  "profile_website": "https://apna.co/anjaligupta",
+  "full_name": "Anjali Gupta",
+  "gender": "f",
+  "profile_url": "https://apna-co.staging.infra.apna.co/bot0000000",
+  "photo_icon_path": "initial_avatars/initialsB_ICON",
+  "photo_firebase_path": "initial_avatars/initialsB",
+  "current_salary": 10000,
+  "area": {
+    "id": 123,
+    "name": "HSR Layout",
+    "lat": 123.45,
+    "long": 123.45
+  },
+  "city": {
+    "id": 1,
+    "name": "Bengaluru",
+    "photo_firebase_path": "initial_avatars/initialsB"
+  },
+  "experiences": [
+    {
+      "organization": {
+        "id": 11,
+        "title": "Tech Mahindra Infosystems Pvt. Ltd."
+      },
+      "job_title": "Telecaller",
+      "start": "2021-01-01T21:25:35.957Z",
+      "end": "2021-02-01T21:25:35.957Z",
+      "current": true
     },
-    "city": {
-        "id": 1,
-        "name": "Bengaluru",
-        "photo_firebase_path": "initial_avatars/initialsB"
+    {
+      "organization": {
+        "id": 12,
+        "title": "Tata Consultancy Services Pvt. Ltd. "
+      },
+      "job_title": "BPO Agent",
+      "start": "2021-03-03T21:25:35.957Z",
+      "end": "2021-04-04T21:25:35.957Z",
+      "current": true
     },
-    "experiences": [
-        {
-            "organization": {
-                "id": 11,
-                "title": "Swiggy"
-            },
-            "job_title": "Delivery Executive",
-            "start": "2021-01-01T21:25:35.957Z",
-            "end": "2021-02-01T21:25:35.957Z",
-            "current": true
-        },
-        {
-            "organization": {
-                "id": 12,
-                "title": "Swiggy 2"
-            },
-            "job_title": "Delivery Executive",
-            "start": "2021-03-01T21:25:35.957Z",
-            "end": "2021-04-01T21:25:35.957Z",
-            "current": true
-        },
-        {
-            "organization": {
-                "id": 13,
-                "title": "Swiggy 3"
-            },
-            "job_title": "Delivery Executive",
-            "start": "2021-05-01T21:25:35.957Z",
-            "end": "2021-06-01T21:25:35.957Z",
-            "current": true
-        },
-        {
-            "organization": {
-                "id": 14,
-                "title": "Swiggy 4"
-            },
-            "job_title": "Delivery Executive",
-            "start": "2021-07-01T21:25:35.957Z",
-            "current": true
-        }
-    ],
-    "years_of_experience": 2,
-    "educations": [
-        {
-            "education_level": {
-                "id": 1,
-                "level": "Graduate",
-                "ordered_id": 123
-            },
-            "degree": null,
-            "education_institute": {
-                "title": "SRCC"
-            },
-            "start": "2019-12-01T21:25:35.957Z",
-            "end": "2021-12-01T21:25:35.957Z",
-            "ongoing": false
-        },
-        {
-            "education_level": {
-                "id": 2,
-                "level": "11th",
-                "ordered_id": 124
-            },
-            "degree": null,
-            "education_institute": {
-                "title": "KSRTC 2"
-            },
-            "start": "2021-01-01T21:25:35.957Z",
-            "end": "2021-12-01T21:25:35.957Z",
-            "ongoing": false
-        },
-        {
-            "education_level": {
-                "id": 3,
-                "level": "12th",
-                "ordered_id": 125
-            },
-            "degree": null,
-            "education_institute": {
-                "title": "KSRTC 3"
-            },
-            "start": "2022-01-01T21:25:35.957Z",
-            "end": "2022-12-01T21:25:35.957Z",
-            "ongoing": false
-        },
-        {
-            "education_level": {
-                "id": 4,
-                "level": "13th",
-                "ordered_id": 126
-            },
-            "degree": null,
-            "education_institute": {
-                "title": "KSRTC 4"
-            },
-            "start": "2023-01-01T21:25:35.957Z",
-            "end": "2023-12-01T21:25:35.957Z",
-            "ongoing": false
-        }
-    ],
-    "is_verified": false,
-    "views_count": 1,
-    "resume": {
-        "page_count": 1,
-        "url": "www.google.com",
-        "is_valid": true,
-        "format": "pdf"
+    {
+      "organization": {
+        "id": 13,
+        "title": "Swiggy"
+      },
+      "job_title": "Delivery Executive",
+      "start": "2021-05-05T21:25:35.957Z",
+      "end": "2021-06-06T21:25:35.957Z",
+      "current": false
+    },
+    {
+      "organization": {
+        "id": 14,
+        "title": "Uber Automotive Pvt Ltd"
+      },
+      "job_title": "Delivery Executive",
+      "start": "2021-07-01T21:25:35.957Z",
+      "end": "2021-09-06T21:25:35.957Z",
+      "current": false
     }
+  ],
+  "years_of_experience": 5,
+  "educations": [
+    {
+      "education_level": {
+        "id": 1,
+        "level": "Graduate",
+        "ordered_id": 123
+      },
+      "degree": "B.Com Honours",
+      "education_institute": {
+        "title": "Shri Ram College of Commerce, Delhi University"
+      },
+      "start": "2019-12-01T21:25:35.957Z",
+      "end": "2021-12-01T21:25:35.957Z",
+      "ongoing": false
+    },
+    {
+      "education_level": {
+        "id": 2,
+        "level": "Post Graduate",
+        "ordered_id": 124
+      },
+      "degree": "Masters in Business Administration",
+      "education_institute": {
+        "title": "Indian Institute of Management, Ahemdabad"
+      },
+      "start": "2021-01-01T21:25:35.957Z",
+      "end": "2021-12-01T21:25:35.957Z",
+      "ongoing": true
+    },
+    {
+      "education_level": {
+        "id": 3,
+        "level": "Diploma",
+        "ordered_id": 125
+      },
+      "degree": "Delivery Execution",
+      "education_institute": {
+        "title": "Indira Gandhi National Open University"
+      },
+      "start": "2022-01-01T21:25:35.957Z",
+      "end": "2022-12-01T21:25:35.957Z",
+      "ongoing": false
+    }
+  ],
+  "is_verified": false,
+  "views_count": 159,
+  "resume": {
+    "page_count": 1,
+    "url": "www.google.com",
+    "is_valid": true,
+    "format": "pdf"
+  }
 }
