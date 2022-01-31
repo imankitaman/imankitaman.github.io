@@ -1,0 +1,100 @@
+{
+  "user_id": 23456890,
+  "profile_website": "https:apna.co/abhisheknarendrakumar",
+  "full_name": "Abhishek Narendrakumar",
+  "gender": "m",
+  "profile_url": "https://apna-co.staging.infra.apna.co/bot0000000",
+  "photo_icon_path": "initial_avatars/initialsB_ICON",
+  "photo_firebase_path": "initial_avatars/initialsB",
+  "current_salary": 45000,
+  "area": {
+    "id": 123,
+    "name": "HSR Layout",
+    "lat": 123.45,
+    "long": 123.45
+  },
+  "city": {
+    "id": 1,
+    "name": "Bengaluru",
+    "photo_firebase_path": "initial_avatars/initialsB"
+  },
+  "experiences": [
+    {
+      "organization": {
+        "id": 11,
+        "title": "Airtel Pvt Ltd"
+      },
+      "job_title": "Sales Manager",
+      "start": "2021-01-01T21:25:35.957Z",
+      "end": "2021-02-01T21:25:35.957Z",
+      "current": true
+    },
+    {
+      "organization": {
+        "id": 12,
+        "title": "Life Insurance Corporation of India"
+      },
+      "job_title": "Insurance Sales Agent",
+      "start": "2021-03-01T21:25:35.957Z",
+      "end": "2021-04-01T21:25:35.957Z",
+      "current": true
+    },
+    {
+      "organization": {
+        "id": 13,
+        "title": "Vodafone India"
+      },
+      "job_title": "Assistant Sales Manager - Communications",
+      "start": "2021-05-01T21:25:35.957Z",
+      "end": "2021-06-01T21:25:35.957Z",
+      "current": false
+    }
+  ],
+  "years_of_experience": "10+ years",
+  "educations": [
+    {
+      "education_level": {
+        "id": 1,
+        "level": "ITI",
+        "ordered_id": 123
+      },
+      "degree": "Finance",
+      "education_institute": {
+        "title": "Government Industrial Training Institute, Mumbai"
+      },
+      "start": "2019-12-01T21:25:35.957Z",
+      "end": "2021-12-01T21:25:35.957Z",
+      "ongoing": true
+    },
+    {
+      "education_level": {
+        "id": 2,
+        "level": "Diploma",
+        "ordered_id": 124
+      },
+      "degree": "Sales Management & Operations",
+      "education_institute": {
+        "title": "Indira Gandhi National Open University"
+      },
+      "start": "2021-01-01T21:25:35.957Z",
+      "end": "2021-12-01T21:25:35.957Z",
+      "ongoing": false
+    },
+    {
+      "education_level": {
+        "id": 3,
+        "level": "Graduate",
+        "ordered_id": 125
+      },
+      "degree": "B.A.",
+      "education_institute": {
+        "title": "Gujarat University"
+      },
+      "start": "2022-01-01T21:25:35.957Z",
+      "end": "2022-12-01T21:25:35.957Z",
+      "ongoing": false
+    }
+  ],
+  "is_verified": true,
+  "views_count": 179
+}
