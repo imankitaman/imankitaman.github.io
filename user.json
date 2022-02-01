@@ -102,7 +102,10 @@
         "level": "Diploma",
         "ordered_id": 125
       },
-      "degree": "Delivery Execution",
+      "degree":  {
+        "id":123,
+        "level": "Delivery Execution"
+      },
       "education_institute": {
         "title": "Indira Gandhi National Open University"
       },
