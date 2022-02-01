@@ -68,7 +68,10 @@
         "level": "Graduate",
         "ordered_id": 123
       },
-      "degree": "B.Com Honours",
+      "degree": {
+        "id":123,
+        "level": "B.Com Honours"
+      },
       "education_institute": {
         "title": "Shri Ram College of Commerce, Delhi University"
       },
@@ -82,7 +85,10 @@
         "level": "Post Graduate",
         "ordered_id": 124
       },
-      "degree": "Masters in Business Administration",
+       "degree": {
+        "id":123,
+        "level": "Masters in Business Administration"
+      },
       "education_institute": {
         "title": "Indian Institute of Management, Ahemdabad"
       },
